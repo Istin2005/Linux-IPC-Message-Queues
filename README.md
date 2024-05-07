@@ -20,8 +20,8 @@ Execute the C Program for the desired output.
 
 # PROGRAM:
 
-Developed by : ISTIN B
-Register Number : 212223040068
+<B>Developed by : ISTIN B<B>
+<B>Register Number : 212223040068<B>
 
 ## C program that receives a message from message queue and display them
 
